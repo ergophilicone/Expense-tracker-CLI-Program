@@ -38,13 +38,9 @@ Expense Tracker is a simple Python-based tool to help you efficiently track your
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Author
 
-- [Md Faisal](https://github.com/your-username)
+- [Md Faisal](https://github.com/ergophilicone)
 
 ## Version Details
 
