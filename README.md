@@ -50,4 +50,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ```
 
-Replace `https://github.com/your-username/expense-tracker.git` with the actual URL of your GitHub repository. Feel free to customize this template based on your project's specific details and requirements.
+Replace `https://github.com/ergophilicone/expense-tracker.git` with the actual URL of your GitHub repository. Feel free to customize this template based on your project's specific details and requirements.
