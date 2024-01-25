@@ -3,7 +3,8 @@
 ```markdown
 # Expense Tracker
 
-Expense Tracker is a simple Python-based tool to help you efficiently track your expenses. It allows you to make new entries, categorize expenses, and view previous expenses.
+Expense Tracker is a simple Python-based tool to help you efficiently track your expenses.
+It allows you to make new entries, categorize expenses, and view previous expenses.
 
 ## Features
 
